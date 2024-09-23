@@ -1,1 +1,1 @@
-we develop the dokmobile app
+we develop the DOK infrastructure
